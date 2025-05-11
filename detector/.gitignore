@@ -1,0 +1,27 @@
+# Ignore virtual environments
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# VS Code settings
+.vscode/
+
+# Django specific
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+db.sqlite3
+*.mo
+
+# Environment variables
+.env
+.env.*
+
+# OS-specific
+.DS_Store
+Thumbs.db
