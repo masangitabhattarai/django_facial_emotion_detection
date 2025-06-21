@@ -1,0 +1,24 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore database
+db.sqlite3
+
+# Ignore keras/tensorflow model files
+*.keras
+*.h5
+*.pkl
+
+# Ignore OS files
+.DS_Store
+
+# Ignore environment files
+.env
+
+# Ignore logs
+*.log
+
